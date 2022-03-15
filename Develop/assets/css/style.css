@@ -43,3 +43,14 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
+
+/* link styling */
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* paragraph font size */
+p {
+  font-size: 16px;
+}
