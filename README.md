@@ -19,8 +19,6 @@
 
 ## Screenshots
 
-![](./Develop/assets/images/Screen Shot 2022-03-15 at 12.14.10 AM.png)
-
-![](./Develop/assets/images/Screen Shot 2022-03-15 at 12.14.18 AM.png)
-
-![](./Develop/assets/images/Screen Shot 2022-03-15 at 12.14.25 AM.png)
+<img width="1251" alt="Screen Shot 2022-03-15 at 12 14 10 AM" src="https://user-images.githubusercontent.com/99617307/159184534-02ed81ab-2a71-45ff-a6b1-97d0c2a74a47.png">
+<img width="1251" alt="Screen Shot 2022-03-15 at 12 14 18 AM" src="https://user-images.githubusercontent.com/99617307/159184537-d5aeafd8-3c00-42a8-9e6c-64ea45900f97.png">
+<img width="1251" alt="Screen Shot 2022-03-15 at 12 14 25 AM" src="https://user-images.githubusercontent.com/99617307/159184544-d4ecf326-2f83-4a41-84e6-1f3f60ab68fe.png">
